@@ -11,7 +11,7 @@ That instinct shows up in most of what I build. I flip used cars on the side, so
 
 - **[Marketplace Car Flipper](https://github.com/Sathvik21/car-flipper-ui)** — scrapes Facebook Marketplace, benchmarks each listing against Kelley Blue Book, and has Claude score flip risk in a live dashboard. Yes, this is the one that got me the Eclipse. *Python · Playwright · Flask · Anthropic API*
 - **[Open-Source Vulnerability Sentinel](https://github.com/Sathvik21/REPO)** — an agentic Slack bot that scans dependencies and surfaces CVEs, cross-referencing the National Vulnerability Database. *JavaScript · Node · Slack Bolt · MCP*
-- **[Purdue Campus Nav](https://github.com/Sathvik21/REPO)** — pedestrian routing that prefers indoor tunnels to survive Purdue winters, with a Dijkstra indoor graph stitched onto outdoor directions. *Python · Flask · OSMnx · Leaflet*
+- **[Purdue Campus Nav]([https://github.com/Sathvik21/REPO](https://github.com/Sathvik21/boilernav))** — pedestrian routing that prefers indoor tunnels to survive Purdue winters, with a Dijkstra indoor graph stitched onto outdoor directions. *Python · Flask · OSMnx · Leaflet*
 
 ### Stack
 
