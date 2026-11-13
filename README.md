@@ -11,7 +11,7 @@ I build agentic AI systems and the full-stack products around them. I ship apps 
 ### Now
 
 - **Software Developer @ [Veygo](https://veygo.rent)**: student car-rental startup at Purdue. Telematics integrations (GPS + remote immobilization), SwiftUI admin app, Rust backend.
-- **Kova**: built and shipped the Android app for a student rideshare/carpool platform. 500+ downloads. *React Native · Expo · Firebase*
+- **[Kova](https://www.ridekova.com/)** ([App Store](https://apps.apple.com/us/app/ridekova/id6757269118)): built and shipped the Android app for a student rideshare/carpool platform. 500+ downloads. *React Native · Expo · Firebase*
 - **ML research**: benchmarking 8 quantization-aware training schemes on GPT-2 and how low-bit compression, SAM, and LoRA/QLoRA change weight-matrix stable rank and spectral structure. *PyTorch*
 
 ### Projects
@@ -20,7 +20,7 @@ I build agentic AI systems and the full-stack products around them. I ship apps 
 |---|---|---|
 | [**Marketplace Car Flipper**](https://github.com/Sathvik21/car-flipper-ui) | Scrapes Facebook Marketplace, benchmarks listings against KBB, and has Claude score flip risk in a live dashboard. Found me my Eclipse GT. | Python · Playwright · Flask · Anthropic API |
 | [**BoilerNav**](https://github.com/Sathvik21/boilernav) | Campus walking directions that route through indoor tunnels to beat Purdue winters. Dijkstra indoor graph stitched onto outdoor routing. | Python · Flask · OSMnx · Leaflet |
-| [**bsplanner**](https://github.com/Sathvik21/bsplanner) | Pulls every Brightspace assignment plus syllabi and generates a study schedule. | — |
+| [**mc_auth_but_better**](https://github.com/Sathvik21/mc_auth_but_better) | Cross-platform hotkey that generates TOTP codes from your OS credential store (Keychain / Credential Manager), no phone needed. | Bash · PowerShell · Lua · AutoHotkey |
 
 ### Stack
 
